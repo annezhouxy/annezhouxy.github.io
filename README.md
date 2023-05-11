@@ -1,5 +1,7 @@
-# My Personal Website
+# Anne Zhou's Personal Website
 
-Inspired by https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio
+## Thank ypu for visiting!
 
-Thank ypu for visiting!
+###### Inspired by https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio
+
+

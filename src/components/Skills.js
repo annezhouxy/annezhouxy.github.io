@@ -2,9 +2,7 @@ import meter1 from "../assets/img/meter1.svg";
 import meter2 from "../assets/img/meter2.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import arrow1 from "../assets/img/header.svg";
-import arrow2 from "../assets/img/header.svg";
-import colorSharp from "../assets/img/header.svg"
+
 
 
 export const Skills = () => {
@@ -35,7 +33,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>Here is some of my technical skills </p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                            <img src={meter1} alt="Image"/>
@@ -47,6 +45,7 @@ export const Skills = () => {
                                 <h5>Python</h5>
                                 <h5>JavaScript</h5>
                                 <h5>C</h5>
+                                <h5>SQL</h5>
                                 <h5>R</h5>
                                 <h5>LaTeX</h5>
                                 <h5>MATLAB</h5>
